@@ -1,0 +1,7 @@
+C:\Users\tmcar\source\repos\Edabit\bin\Debug\Edabit.exe.config
+C:\Users\tmcar\source\repos\Edabit\bin\Debug\Edabit.exe
+C:\Users\tmcar\source\repos\Edabit\bin\Debug\Edabit.pdb
+C:\Users\tmcar\source\repos\Edabit\obj\Debug\Edabit.csprojAssemblyReference.cache
+C:\Users\tmcar\source\repos\Edabit\obj\Debug\Edabit.csproj.CoreCompileInputs.cache
+C:\Users\tmcar\source\repos\Edabit\obj\Debug\Edabit.exe
+C:\Users\tmcar\source\repos\Edabit\obj\Debug\Edabit.pdb
